@@ -31,13 +31,6 @@ kubectl describe cm config
 </p>
 </details>
 
-### Create and display a configmap from a file
-
-Create the file with
-
-```bash
-echo -e "foo3=lili\nfoo4=lele" > config.txt
-```
 
 <details><summary>show</summary>
 <p>
